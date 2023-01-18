@@ -1,0 +1,31 @@
+
+.logo{
+   position: relative;
+  max-width: 80px;
+}
+
+.navbar-brand{
+    font-size: 20px;
+  
+
+}
+
+.col{
+ 
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+}
+
+.btn-learn-more{
+ 
+  font-size: 19px;
+    font-weight: 500;
+    color: #fff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background:  #007bff;
+    cursor: pointer;
+}
